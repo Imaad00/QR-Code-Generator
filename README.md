@@ -1,7 +1,5 @@
 # QR-Code-Generator
 
-Here’s a version of the HTML presentation for your `README.md` in plain Markdown syntax. GitHub renders Markdown, so the formatting will be simpler and more readable directly on your repository page.
-
 ```markdown
 # QR Code Generator
 
